@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Eu sou a Gabriela </h1>
 
-<h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=2000&color=C91E5A&background=87534615&center=true&vCenter=true&width=435&lines=Desenvolvedora+Salesforce+em+constru%C3%A7%C3%A3o;Apaixonada+por+tecnologia)](https://git.io/typing-svg) </h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=2000&color=C91E5A&background=87534615&center=true&vCenter=true&width=435&lines=Desenvolvedora+Salesforce+em+constru%C3%A7%C3%A3o;Apaixonada+por+tecnologia)](https://git.io/typing-svg)
 
 <h3 align="center"> Seja bem vindo(a) à minha página do GitHub. Te convido a dar uma olhada nos meus projetos😁</h3></a></strong>
 <br>
@@ -56,7 +56,7 @@
 
 ##
   
-<h3 align="center"><strong>Where find me:</strong></h3> 
+<strong>Where find me:</strong> 
 
 <div align="center">   
   <a href="https://www.linkedin.com/in/gabriela-augustto/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
