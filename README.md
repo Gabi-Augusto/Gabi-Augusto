@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=2000&color=C91E5A&background=87534615&center=true&vCenter=true&width=435&lines=Desenvolvedora+Salesforce+em+constru%C3%A7%C3%A3o;Apaixonada+por+tecnologia)](https://git.io/typing-svg)
 
-<img align="left" src="https://cdn.picrew.me/shareImg/org/202212/644129_ECWDWlL3.png" width="320px">Seja bem vindo(a) à minha página do GitHub. Te convido a dar uma olhada nos meus projetos😁</a></strong>
+Seja bem vindo(a) à minha página do GitHub. Te convido a dar uma olhada nos meus projetos😁</a></strong>
 <br>
 
 **********
