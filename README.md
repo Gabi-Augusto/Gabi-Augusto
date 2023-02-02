@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Eu sou a Gabriela 
   
-<br><br><br><br>
+<br><br>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=C74066&width=435&lines=Desenvolvedora+Salesforce+em+constru%C3%A7%C3%A3o;Apaixonada+por+tecnologia)](https://git.io/typing-svg)
 
