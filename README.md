@@ -55,7 +55,8 @@
 </div>
 
 ##
-  
+
+<h3 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>  
 <h3 align="center"> Where find me: </h3></a></strong>
 
 <div align="center">   
