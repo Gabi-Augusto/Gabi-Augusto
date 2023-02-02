@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Eu sou a Gabriela </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=2000&color=C91E5A&background=87534615&center=true&vCenter=true&width=435&lines=Desenvolvedora+Salesforce+em+constru%C3%A7%C3%A3o;Apaixonada+por+tecnologia)]
+(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=2000&color=C91E5A&background=87534615&center=true&vCenter=true&width=435&lines=Desenvolvedora+Salesforce+em+constru%C3%A7%C3%A3o;Apaixonada+por+tecnologia)
 
 <h3 align="center"> Seja bem vindo(a) à minha página do GitHub. Te convido a dar uma olhada nos meus projetos😁</h3></a></strong>
 <br>
