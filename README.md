@@ -56,10 +56,9 @@
 
 ##
   
-
+<h3 align="center"> Where find me: </h3></a></strong>
 
 <div align="center">   
- <strong>Where find me:</strong> 
   <a href="https://www.linkedin.com/in/gabriela-augustto/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="https://trailblazer.me/id/gabi-augusto" target="_blank"><img src="https://img.shields.io/badge/TrailBlazer-1C1C1C?style=for-the-badge&logo=Salesforce&logoColor=50EBFA" /></a>  
   
