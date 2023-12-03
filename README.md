@@ -23,9 +23,11 @@
 
 <div style="display: inline_block" align="center"> 
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-   
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js, nodejs, vue, webpack)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=java, c, cs, cpp, py, php)](https://skillicons.dev)  
+  
+  [![My Skills](https://skillicons.dev/icons?i=git,github, azure, vscode, figma)](https://skillicons.dev)
 
 </div>
 
