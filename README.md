@@ -17,7 +17,7 @@
 
 ***************	
 
-<h3 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h3 align="center"><b>Tecnologias e ferramentas que utilizo:</b></h2>
 
 
 
